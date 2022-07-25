@@ -14,4 +14,4 @@ cd Green_Lover
 
 python Green_Lover
 
-Note: (This Tools Are Free, So You No Need Permission To Use Nisad Hossain Tools Enjoy)
+Note: (This Tools Are Premium, So You Need Permission To Use Nisad Hossain Tools Enjoy)
