@@ -1,18 +1,17 @@
-- 𝗽𝗸𝗴 𝘂𝗽𝗱𝗮𝘁𝗲
+pkg update
 
-- 𝗽𝗸𝗴 𝘂𝗽𝗴𝗿𝗮𝗱𝗲
+pkg upgrade
 
-- 𝗽𝗶𝗽𝟮 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗿𝗲𝗾𝘂𝗲𝘀𝘁𝘀
+pip2 install requests
 
-- 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗽𝘆𝘁𝗵𝗼𝗻𝟮
+pkg install python2
 
-- 𝗽𝗸𝗴 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗶𝘁
+pkg install git
 
-- 𝗴𝗶𝘁 𝗰𝗹𝗼𝗻𝗲 𝗵𝘁𝘁𝗽𝘀://𝗴𝗶𝘁𝗵𝘂𝗯.𝗰𝗼𝗺/𝗡𝗶𝘀𝗮𝗱-𝗛𝗼𝘀𝘀𝗮𝗶𝗻/𝗚𝗿𝗲𝗲𝗻_𝗟𝗼𝘃𝗲𝗿
+git clone https://github.com/Nisad-Hossain/Green_Lover
 
-- 𝗰𝗱 𝗚𝗿𝗲𝗲𝗻_𝗟𝗼𝘃𝗲𝗿
+cd Green_Lover
 
-- 𝗽𝘆𝘁𝗵𝗼𝗻 𝗴𝗿𝗲𝗲𝗻-𝗹𝗼𝘃𝗲𝗿.𝗽𝘆
+python Green_Lover
 
-
-Note: (This Tools Are Free, So You No Need Permission To Use NIKI BD-CRACK Tools Enjoy)
+Note: (This Tools Are Free, So You No Need Permission To Use Nisad Hossain Tools Enjoy)
